@@ -158,4 +158,4 @@ mysql < "my-own-solution/my own.sql"
 BComm AI/Data Analytics Graduate
 
 📍 Dublin, Ireland
-✉️ [june.kim@email.com](mailto:june.kim566@email)
+✉️ [june.kim566@email.com](mailto:june.kim566@email)
