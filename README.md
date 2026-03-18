@@ -1,2 +1,2 @@
 # angling-championship-database
-3NF SQL database design for World Cup Angling Championship + AI analysis
+AI-assisted SQL database design for World Cup Angling Championship
