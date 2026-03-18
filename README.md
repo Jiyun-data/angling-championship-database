@@ -94,16 +94,13 @@ This project critically assesses how AI performs in structured data design tasks
 
 ---
 
-## 📈 Data Pipeline Architecture
+## 🖼️ Entity Relationship Diagram
+<div align="center">
 
-```mermaid id="hph5ol"
-graph LR
-    A[Entrant Data] --> B[Catch Records]
-    B --> C[Qualification Logic]
-    C --> D[Final Rankings]
-```
+![Production 3NF ERD](https://raw.githubusercontent.com/Jiyun-data/angling-championship-database/main/my%20own%20solution/ERD.png)
 
----
+</div>
+
 
 ## 🧠 AI vs Human Comparison
 
