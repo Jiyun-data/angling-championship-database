@@ -6,6 +6,7 @@
 
 [![SQL](https://img.shields.io/badge/SQL-3NF-blue?style=flat\&logo=mysql\&logoColor=white)](my-own-solution/my%20own.sql)
 [![AI](https://img.shields.io/badge/AI-ChatGPT-orange?style=flat\&logo=openai)](AI%20prompt.docx)
+[![Stars](https://img.shields.io/github/stars/Jiyun-data/angling-championship-database?style=social)](https://github.com/Jiyun-data/angling-championship-database)
 
 <br>
 
@@ -94,12 +95,14 @@ This project critically assesses how AI performs in structured data design tasks
 
 ---
 
-## 🖼️ Entity Relationship Diagram
+## 🖼️🏆 Production 3NF ERD
 <div align="center">
-
-![Production 3NF ERD](https://raw.githubusercontent.com/Jiyun-data/angling-championship-database/main/my%20own%20solution/ERD.png)
-
+<img src="https://raw.githubusercontent.com/Jiyun-data/angling-championship-database/main/my%20own%20solution/ERD.png" width="950">
+<br><br>
+**🎯 My Winning Schema: 3NF • Production Ready • Constraint Complete**
+ 
 </div>
+
 
 
 ## 🧠 AI vs Human Comparison
@@ -134,28 +137,38 @@ CREATE TABLE Entrant (
 ## 🚀 Quick Start
 
 ```bash id="9g5pks"
-git clone YOUR-REPO-URL
-mysql < "my-own-solution/my own.sql"
+git clone https://github.com/Jiyun-data/angling-championship-database
+cd angling-championship-database
+mysql < "my own solution/my own.sql"
+DESCRIBE Entrant;
 ```
 
 ---
 
 ## 🎯 Key Data Takeaways
 
-✔️ Applied **database normalisation (3NF)** to eliminate redundancy
-✔️ Translated **business rules into structured data constraints**
-✔️ Designed a schema optimised for **analytics and reporting**
-✔️ Evaluated **AI limitations in structured data modelling**
+- ✔️ **Applied database normalisation (3NF)** to eliminate redundancy
+- ✔️ **Translated business rules** into structured data constraints  
+- ✔️ **Designed schema optimised** for analytics and reporting
+- ✔️ **Evaluated AI limitations** in structured data modelling
 
-👉 **Result:** A robust, scalable database suitable for real-world deployment
+👉 **Result:** Robust, scalable database for real-world deployment
 
 ---
 
 <div align="center">
 
-### 👩‍💼 Jiyun Kim
+👩‍💼 **Jiyun Kim** • Data Analyst Portfolio  
+**BComm AI/Data Analytics Graduate**
 
-BComm AI/Data Analytics Graduate
+📍 **Dublin, Leinster, Ireland**  
+💼 **[LinkedIn](https://linkedin.com/in/jiyunkim)**  
+✉️ **[june.kim566@email.com](mailto:june.kim566@email.com)**  
+🌐 **[GitHub](https://github.com/Jiyun-data)**  
 
-📍 Dublin, Ireland
-✉️ [june.kim566@email.com](mailto:june.kim566@email)
+**🎯 Skills:** SQL • Power BI • AI Tools • Data Modelling • 3NF Design
+
+[![Footer](https://img.shields.io/badge/Portfolio-Ready-brightgreen?style=flat&logo=gitbook)](https://github.com/Jiyun-data/angling-championship-database)
+
+⭐ **Star Repo** | 🔄 **Fork & Test** | 💬 **Hiring? DM me!**
+</div>
